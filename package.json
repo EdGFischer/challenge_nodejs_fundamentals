@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_challenge_fundamentals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}
